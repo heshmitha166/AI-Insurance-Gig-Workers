@@ -40,3 +40,6 @@ We bypass manual intervention using code-based logic:
 - **Backend:** FastAPI (Python)
 - **Database:** MongoDB
 - **Intelligence:** Scikit-Learn (Risk) & Geopy (GPS Validation)
+
+## 🎥 Demo Video
+https://drive.google.com/file/d/1VcMMO9_1gCaoKqdwr1rd1O0JOrD2L_Rw/view
